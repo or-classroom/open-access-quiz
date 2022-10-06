@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "National Institute of Health",
+        "NASA",
+        "Max Planck Society"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Some explanation text."
+      },
+      "number": 1,
+      "prompt": "Which organisation designated 2023 as the \"Year of Open Science\"?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Does open research mean you have to share everything?"
+    }
+  ],
+  "title": "How much do you know about open research?",
+  "url": "http://or-classroom.github.io/open-access-quiz/"
+}
